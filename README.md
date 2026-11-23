@@ -1,6 +1,6 @@
 # Bayesian Inference in Practice: MCMC & Hierarchical Degradation Modelling
 
-Two end-to-end Bayesian modelling projects built on the same toolkit (MCMC, HMC/NUTS and probabilistic programming in `numpyro`):
+Two Bayesian modelling projects using MCMC, HMC/NUTS and probabilistic programming in `numpyro`:
 
 1. **MCMC from scratch.** A Metropolis sampler written in NumPy/SciPy and compared with HMC/NUTS on Bayesian regression with Gaussian RBF basis functions.
 2. **Hierarchical degradation modelling.** Partial-pooling models that predict when mechanical components fall below a safe integrity level, even with only one or two measurements per component.
