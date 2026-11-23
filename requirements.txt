@@ -1,0 +1,11 @@
+numpy
+scipy
+pandas
+matplotlib
+seaborn
+tabulate
+jax
+numpyro
+arviz<1.0
+ipython
+jupyter
