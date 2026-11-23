@@ -103,8 +103,8 @@ The exponential form and the linear effect of X1-X5 on the decay exponent are as
 ## Getting started
 
 ```bash
-git clone <this-repo-url>
-cd <repo-folder>
+git clone https://github.com/Rajveena020/Bayesian-MCMC-and-hierarchical-modelling-project.git
+cd Bayesian-MCMC-and-hierarchical-modelling-project
 
 python -m venv .venv && source .venv/bin/activate    # optional
 pip install -r requirements.txt
